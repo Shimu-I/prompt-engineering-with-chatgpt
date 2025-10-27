@@ -1,3 +1,9 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Shimu-I/prompt-engineering-with-chatgpt)
+![GitHub last commit](https://img.shields.io/github/last-commit/shimu-i/prompt-engineering-with-chatgpt)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=shimu-i/prompt-engineering-with-chatgpt)
+
+![Book Cover](cover.png)
+
 # Prompt Engineering with ChatGPT: From Fundamentals to Mastery
 
 *By Jasmin Sultana Shimu, crafted with insights from ChatGPT*
