@@ -147,7 +147,7 @@
 - **1.4.4.7** Monetization Tracks (freelance, consulting, SaaS)
 - **1.4.4.8** Documentation & Publishing (GitHub Pages / MkDocs)
 - **1.4.4.9** Collaboration & Peer Review
-- **1.4.4.10** **Exam Section:** Final Exam + Interview Simulation
+- **1.4.4.10** **Exam Section:** Final Exam + Interview Simulation with 1000 Questions
 - **Capstone I:** Specialized AI Assistant
 - **Capstone II:** Master Engineer Challenge
 
